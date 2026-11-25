@@ -1,0 +1,2 @@
+# TaxonomiaVulnerabilidadesDigitais
+Validador de taxonomia
